@@ -1,2 +1,0 @@
-# raphaga.github.io
-Ejemplo
